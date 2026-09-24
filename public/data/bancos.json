@@ -1,0 +1,44 @@
+[
+  {
+    "id": "nequi",
+    "nombre": "Nequi",
+    "codigo": "1507",
+    "icono": "/nequi_icon.png",
+    "tipo": "billetera"
+  },
+  {
+    "id": "bancobogota",
+    "nombre": "Banco de Bogotá",
+    "codigo": "1001",
+    "icono": "/bancobogota_icon.png",
+    "tipo": "banco"
+  },
+  {
+    "id": "bancolombia",
+    "nombre": "Bancolombia",
+    "codigo": "1007",
+    "icono": "/bancolombia_icon.jpg",
+    "tipo": "banco"
+  },
+  {
+    "id": "davivienda",
+    "nombre": "Davivienda",
+    "codigo": "1051",
+    "icono": "/davivienda_icon.png",
+    "tipo": "banco"
+  },
+  {
+    "id": "bbva",
+    "nombre": "BBVA Colombia",
+    "codigo": "1013",
+    "icono": "/bbva_icon.png",
+    "tipo": "banco"
+  },
+  {
+    "id": "nu",
+    "nombre": "Nu Colombia",
+    "codigo": "1552",
+    "icono": "/nubank_icon.png",
+    "tipo": "banco"
+  }
+]
