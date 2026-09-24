@@ -1,0 +1,1 @@
+export { InicioScreen } from './InicioScreen';
